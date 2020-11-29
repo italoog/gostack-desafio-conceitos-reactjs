@@ -25,7 +25,7 @@
 
 Nesse desafio, criei uma aplicação para treinar o que aprendi até agora no ReactJS!
 
-Continuei a desenvolvendo a aplicação que armazena repositórios do meu portfólio, que já desenvolvi o backend no último desafio utilizando o Node.js.
+Continuei a desenvolvendo a aplicação que armazena repositórios do meu portfólio, onde já desenvolvi o backend no último desafio utilizando o Node.js.
 
 ## :memo: Licença
 
